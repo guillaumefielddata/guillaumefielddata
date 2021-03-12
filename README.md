@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guillaumefielddata
-- 👀 I’m interested in Software development, Sciences, History 💞️, Prehistory
+- 👀 I’m interested in Software development, Sciences, History 💞️ & Prehistory
 - 🌱 I’m currently learning German
 - 📫 How to reach me Guillaume-Martin.Ratte@fielddata.io
 
